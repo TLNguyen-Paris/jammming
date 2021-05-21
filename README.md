@@ -1,3 +1,10 @@
+# Jammming codecademy project 
+
+This is the codecademy project on this link : 
+https://www.codecademy.com/paths/build-web-apps-with-react/tracks/react-capstone/modules/jammming-capstone/projects/jammming-prj
+
+Only done till task 56
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
